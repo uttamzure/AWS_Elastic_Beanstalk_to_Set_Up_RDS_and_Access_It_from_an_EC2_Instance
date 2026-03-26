@@ -116,6 +116,9 @@ sudo yum update -y
 sudo yum install mysql -y
 sudo yum install mariadb105-server -y
 mysql --version
+sudo systemctl start mariadb
+sudo systemctl enable mariadb
+sudo sustemctl status mariadb
 ```
 ![](./IMG/Database%20Client%20Installed(1).png)
 
