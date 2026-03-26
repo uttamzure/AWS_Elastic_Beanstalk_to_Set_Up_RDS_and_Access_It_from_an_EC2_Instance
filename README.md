@@ -6,7 +6,7 @@
 Learn how to deploy an application environment using AWS Elastic Beanstalk, provision an integrated Amazon RDS database, and access the RDS instance securely from an external EC2 instance within the same VPC. 
 -
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - AWS Elastic Beanstalk
 - Amazon RDS (MySQL)
 - Amazon EC2
@@ -15,12 +15,12 @@ Learn how to deploy an application environment using AWS Elastic Beanstalk, prov
 
 ---
 
-## 🏗️ Architecture Diagram
+##  Architecture Diagram
 
 ![Architecture](./IMG/architecture%20project%201.png)
 
 ---
-## 🔑 Key Workflow (Short & Clean)
+##  Key Workflow (Short & Clean)
 - Deploy app using AWS Elastic Beanstalk Amazon Web Services
 
 - Enable RDS auto-creation with Beanstalk
@@ -76,7 +76,7 @@ Service: AWS Elastic Beanstalk
 ![](./IMG/Elastic%20Beanstalk%20Environment(1).png)
 
 
-![](./IMG/Elastic%20Beanstalk%20Environment(2).png)
+![](./IMG/Elastic%20Beanstalk%20Environment\(2.png)
 
 ### STEP 2: Application Running
 
